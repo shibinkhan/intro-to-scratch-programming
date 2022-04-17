@@ -1,0 +1,14 @@
+Words and phrases of the day: https://drive.google.com/file/d/1mGmJW6XAWtLjDlK8x2vLCeKzOMqMvDgA/view?usp=sharing
+
+
+
+6-1 More about operators and if-else
+6-2 Sensing with keys and touching.
+6-3 Know about lists
+6-4 Using the pen extension
+6-5 Jumping Chicken - Part I
+6-6 Jumping Chicken - Part II
+
+
+
+6.5 -1 Draw images using pen extension & find the largest number
