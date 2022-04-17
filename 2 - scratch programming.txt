@@ -1,0 +1,22 @@
+2-1 Introduction to Programming
+
+There are 3 basics logical structures:
+    1. Sequence
+    2. Selection
+    3. Repetition
+
+
+
+2-2 Programming Language and Scratch
+
+Visit = https://scratch.mit.edu/
+
+
+
+2-3 Registration and environment setup
+2-4 Introduction to scratch environment
+2-5 Your first animation
+2-6 More animations
+2-7 Summary
+
+Words and phrases: https://drive.google.com/file/d/1thkr-QjIa2imSDNdYkQQdBdMV__rlfWp/view
