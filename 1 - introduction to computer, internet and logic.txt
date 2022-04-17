@@ -1,0 +1,16 @@
+1-1 What is a computer?
+1-2 Components of a Computer
+1-3 Operating Systems definition and examples
+1-4 Internet basics. Brief discussion about how it works, why do we need it.
+1-5 Open browser and google search
+
+URL = Uniform Resource Locator
+
+google এ সার্চ দেওার সময় কোনো নির্দিষ্ট কিওয়ার্ড কে বাদ দিয়ে অর্থাৎ সার্চ দেওয়ার পর ওই কিওয়ার্ড যেনো না আসে তখন ( -কিওয়ার্ড ) সিস্টেম ইউজ করা যায়।
+আর যদি কোনো নির্দিষ্ট কিওয়ার্ড সহ অর্থাৎ সার্চ দেওয়ার পর সকল রেজাল্ট যেন ওই কিওয়ার্ডসহ আসে তখন ( "কিওয়ার্ড" ) সিস্টেম ইউজ করা যায়।
+
+
+
+1-6 Typing Practice
+
+https://www.nitrotype.com/
