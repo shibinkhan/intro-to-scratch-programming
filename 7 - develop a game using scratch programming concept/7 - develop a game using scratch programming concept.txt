@@ -1,0 +1,14 @@
+Important Words and Phrase of the Day: https://drive.google.com/file/d/1I4MVbE-lTZYCN2kMhnbUSUr6jZ8WLXip/view?usp=sharing
+
+
+
+7-1 Game intro and getting the sprites
+7-2 Setting up variables and configuring apple sprite
+7-3 Repeat the fall of an apple
+7-4 Keep score and change difficulty.
+7-5 Termination and duplicating script to other sprite
+7-6 Final touch to the game
+
+
+
+7.5-1 Develop a Game practice
