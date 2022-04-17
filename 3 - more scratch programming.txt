@@ -1,0 +1,7 @@
+Words and phrases: https://drive.google.com/file/d/1IdoDqCBUZ9egLX_t9K1AFOiOXzWCHtc2/view?usp=sharing
+
+3-1 Motion and Wait
+3-2 Sound, Costume and Color
+3-3 Changing Size, Loops with repeat and forever
+3-4 Create and edit costumes
+3-5 An interactive animation
